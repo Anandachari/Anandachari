@@ -1,5 +1,5 @@
 <!-- Epic Data Science Banner -->
-![Data Science Banner](https://www.perplexity.ai/search/image-consists-of-graphs-stati-zJAVRas3QomOLpfaBaTdjw?0=i)
+![Data Science Banner](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2024-10/data-science.jpg)
 
 # 💫 About Me  
 👋 Hi, I’m **P. Anand** — a passionate **Data Analyst** with hands-on experience in extracting insights from data, building impactful dashboards, and applying statistical & machine learning techniques.  
