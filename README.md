@@ -1,5 +1,5 @@
 # 💫 About Me  
-👋 Hi, I’m **P. Anand** — a passionate **Data Analyst** with hands-on experience in extracting insights from data, building impactful dashboards, and applying statistical & machine learning techniques.  
+👋 Hi, I’m **P. Anandachri** — a passionate **Data Analyst** with hands-on experience in extracting insights from data, building impactful dashboards, and applying statistical & machine learning techniques.  
 
 🔎 I specialize in **Data Cleaning, Data Analysis, and Visualization** using tools like:  
 - 🐍 **Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)**  
