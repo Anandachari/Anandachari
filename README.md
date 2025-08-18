@@ -57,4 +57,4 @@
 ---
 
 # 📫 Let’s Connect  
-[![LinkedIn]("www.linkedin.com/in/anandpanchananam")  
+[![LinkedIn]("https://www.linkedin.com/in/anandpanchananam/")  
