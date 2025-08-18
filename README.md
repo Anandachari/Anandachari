@@ -116,7 +116,7 @@
 ---
 
 # 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_PROFILE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]("https://www.linkedin.com/in/anandpanchananam/")  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_PROFILE)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PORTFOLIO_LINK)  
 )](YOUR_LINKEDIN_PROFILE)  
