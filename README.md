@@ -1,5 +1,5 @@
 <!-- Epic Data Science Banner -->
-![Data Science Banner](https://img.freepik.com/free-vector/data-science-isometric-concept_23-2148891049.jpg)
+![Data Science Banner](https://www.perplexity.ai/search/image-consists-of-graphs-stati-zJAVRas3QomOLpfaBaTdjw?0=i)
 
 # 💫 About Me  
 👋 Hi, I’m **P. Anand** — a passionate **Data Analyst** with hands-on experience in extracting insights from data, building impactful dashboards, and applying statistical & machine learning techniques.  
