@@ -1,8 +1,6 @@
 <!-- Epic Data Science Banner -->
 ![Data Science Banner](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2024-10/data-science.jpg)
 
-<!-- Epic Data Science Banner -->
-![Data Science Banner](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2024-10/data-science.jpg)
 
 # 💫 About Me  
 👋 Hi, I’m **P. Anand** — an aspiring **Data Scientist** passionate about solving real-world problems using data.  
