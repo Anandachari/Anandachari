@@ -3,7 +3,7 @@
 
 
 # 💫 About Me  
-👋 Hi, I’m **P. Anand** — an aspiring **Data Scientist** passionate about solving real-world problems using data.  
+👋 Hi, I’m **P. Anandachari** — an aspiring **Data Scientist** passionate about solving real-world problems using data.  
 I bring hands-on experience in **EDA, SQL, visualization, and statistical analysis** through academic projects, internships, and self-driven learning.
 
 ---
