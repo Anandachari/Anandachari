@@ -68,7 +68,6 @@ I bring hands-on experience in **EDA, SQL, visualization, and statistical analys
 # 🌱 Currently Exploring  
 📌 Advanced SQL optimization techniques  
 📌 Machine Learning for predictive analytics  
-📌 Cloud tools for data engineering (AWS, GCP, Azure)  
 
 ---
 
