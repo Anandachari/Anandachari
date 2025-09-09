@@ -16,9 +16,6 @@ I bring hands-on experience in **EDA, SQL, visualization, and statistical analys
 ✅ **Basic Machine Learning and NLP** concepts for business insights  
 
 ---
-
-
-# 🛠️ Languages & Tools  
 # 🛠️ Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
